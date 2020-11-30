@@ -1,2 +1,2 @@
 # go-already
-My public golang playground
+A golang playground for getting go-ing already!
